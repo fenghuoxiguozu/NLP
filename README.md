@@ -12,3 +12,8 @@ KNN:
 1.KNN 预测男女
 2.KNN iris 测试
 3.KNN 回归绘图
+
+renlianshibie：
+普通SVCD 0.4 
+PCA  0.61   
+PCA+SVC调参 0.8
